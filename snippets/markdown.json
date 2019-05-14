@@ -1,0 +1,16 @@
+{
+	"Follow author profile on Amazon": {
+		"prefix": "amazon-follow",
+		"body": [
+			"[![Follow author profile on Amazon](https://img.shields.io/static/v1.svg?label=Follow%20me%20on%20Amazon&message=%F0%9F%93%96&color=FF9900&logo=amazon&logoColor=white)](${AUTHOR:https://www.amazon.com/Michelle-Obama/e/B07B436TLF}$1) "
+		],
+		"description": "Follow author profile on Amazon"
+	},
+	"NuGet profile": {
+		"prefix": "nuget-profile",
+		"body": [
+			"[![NuGet profile](https://img.shields.io/static/v1.svg?label=nuget.org%20profile&message=%F0%9F%8D%AC&color=004880&logo=nuget&logoColor=white)](${AUTHOR:https://www.nuget.org/profiles/newtonsoft}$1) "
+		],
+		"description": "NuGet profile"
+	}
+}
