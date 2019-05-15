@@ -2,15 +2,43 @@
 	"Follow author profile on Amazon": {
 		"prefix": "amazon-follow",
 		"body": [
-			"[![Follow author profile on Amazon](https://img.shields.io/static/v1.svg?label=Follow%20me%20on%20Amazon&message=%F0%9F%93%96&color=FF9900&logo=amazon&logoColor=white)](${AUTHOR:https://www.amazon.com/Michelle-Obama/e/B07B436TLF}$1) "
+			"[![Follow author profile on Amazon](https://img.shields.io/static/v1.svg?label=Follow%20me%20on%20Amazon&message=📖&color=FF9900&logo=amazon&logoColor=white)](https://www.amazon.com/Michelle-Obama/e/B07B436TLF) "
 		],
-		"description": "Follow author profile on Amazon"
+		"description": "Follow author profile on Amazon 📖"
 	},
 	"NuGet profile": {
 		"prefix": "nuget-profile",
 		"body": [
-			"[![NuGet profile](https://img.shields.io/static/v1.svg?label=nuget.org%20profile&message=%F0%9F%8D%AC&color=004880&logo=nuget&logoColor=white)](${AUTHOR:https://www.nuget.org/profiles/newtonsoft}$1) "
+			"[![NuGet profile](https://img.shields.io/static/v1.svg?label=nuget.org%20profile&message=🍬&color=004880&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/newtonsoft) "
 		],
-		"description": "NuGet profile"
+		"description": "NuGet profile 🍬"
+	},
+	"Follow me on Twitter": {
+		"prefix": "twitter-follow",
+		"body": [
+			"[![Follow me on Twitter](https://img.shields.io/static/v1.svg?label=Follow%20%40ProductHunt&message=🤙&color=red&logo=twitter&style=social)](https://twitter.com/ProductHunt) "
+		],
+		"description": "Follow me on Twitter 🤙"
+	},
+	"Follow me on Facebook": {
+		"prefix": "facebook-follow",
+		"body": [
+			"[![Follow me on Facebook](https://img.shields.io/static/v1.svg?label=Follow%20me&message=👋&logo=facebook&style=social)](https://www.facebook.com/zuck) "
+		],
+		"description": "Follow me on Facebook 👋"
+	},
+	"Stackoverflow profile": {
+		"prefix": "stackoverflow-profile",
+		"body": [
+			"[![Stackoverflow profile](https://img.shields.io/static/v1.svg?label=Stackoverflow%20profile&message=😎&color=d6d6d6&logo=stackoverflow&labelColor=3a3a3a)](https://stackoverflow.com/users/22656/jon-skeet) "
+		],
+		"description": "Stackoverflow profile 😎"
+	},
+	"Reddit profile": {
+		"prefix": "reddit-profile",
+		"body": [
+			"[![Reddit profile](https://img.shields.io/static/v1.svg?label=I%27m%20on%20reddit&message=📣&logo=reddit&labelColor=171717&color=171717&logoColor=white)](https://www.reddit.com/user/poem_for_your_sprog) "
+		],
+		"description": "Reddit profile 📣"
 	}
 }
