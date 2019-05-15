@@ -1,5 +1,6 @@
 const assert = require('assert'); 
 const fs = require('fs');
+const parser = require('./../util/parseUtils');
 
 describe('JSON snippets test', function () {
   console.log("[test]", this.title);
@@ -48,7 +49,7 @@ describe('JSON snippets test', function () {
       var filename = allSnippets[si].path.substring(allSnippets[si].path.lastIndexOf('/') + 1);
       try { 
         console.log("\t", "[log]", "reading file:", filename, "👀");
-        var languageJSON = parseSnippetFile("./../snippets/" + filename);
+        var languageJSON = parser.parseSnippetFile("./../snippets/" + filename);
         prefixList = addPrefixKeysToList(languageJSON, prefixList);  
       }
       catch { 
@@ -74,12 +75,6 @@ describe('JSON snippets test', function () {
 
 
 //___________________________Test helper methods_______________________________________
-
-function parseSnippetFile(snippetFile){
-  var snippetFile = fs.readFileSync(require.resolve(snippetFile), "utf8"); 
-  var snippetJSON = JSON.parse(snippetFile);
-  return snippetJSON;
-}
 
 function addPrefixKeysToList(snippetJSON, prefixList){
   for (var ki = 0; ki < Object.keys(snippetJSON).length; ki++) {
