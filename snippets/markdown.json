@@ -44,8 +44,50 @@
 	"Copyright": {
 		"prefix": "copyright",
 		"body": [
-			"![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=$CURRENT_YEAR%20Name&labelColor=informational&color=033450) "
+			"![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%20$CURRENT_YEAR%20Name&labelColor=informational&color=033450) "
 		],
 		"description": "Copyright information ©️"
+	},
+	"Fork this fiddle": {
+		"prefix": "jsfiddle-fork",
+		"body": [
+			"[![Fork this JSFiddle](https://img.shields.io/static/v1.svg?label=🍴%20fork%20this&message=JSFiddle&labelColor=informational&color=033450)](http://jsfiddle.net/v3ayrduk/) "
+		],
+		"description": "Fork this fiddle 🍴"
+	},
+	"Read this Gist": {
+		"prefix": "gist-read",
+		"body": [
+			"[![Read this Gist](https://img.shields.io/static/v1.svg?label=🦄%20read%20this%20&message=gist&labelColor=ff69b4&color=033450)](https://gist.github.com/mrbar42/ae111731906f958b396f30906004b3fa) "
+		],
+		"description": "https://m.me/clydedzRead this Gist 🦄"
+	},
+	"Get in touch on Messenger": {
+		"prefix": "messenger-getintouch",
+		"body": [
+			"[![Get in touch on Messenger](https://img.shields.io/static/v1.svg?label=Get%20in%20touch&message=🤙&logo=messenger&style=social)](https://m.me/clydedz) "
+		],
+		"description": "Get in touch on Messenger 🤙"
+	},
+	"Email me": {
+		"prefix": "email-me",
+		"body": [
+			"[![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:name@domain.com) "
+		],
+		"description": "Email me 📧"
+	},
+	"Follow me on Pluralsight": {
+		"prefix": "pluralsight-follow",
+		"body": [
+			"[![Follow me on Pluralsight](https://img.shields.io/static/v1.svg?label=Follow%20me%20on&labelColor=F15B2A&logo=pluralsight&logoColor=white&message=Pluralsight%20👍&color=2D2D2D)](https://www.pluralsight.com/authors/john-papa) "
+		],
+		"description": "Follow me on Pluralsight 👍"
+	},
+	"View my VS Marketplace profile": {
+		"prefix": "vsmarketplace-profile",
+		"body": [
+			"[![View my Visual Studio Marketplace profile](https://img.shields.io/static/v1.svg?label=View%20my%20VS%20Marketplace%20profile&labelColor=success&message=🎯&color=2D2D2D)](https://marketplace.visualstudio.com/publishers/clydedsouza) "
+		],
+		"description": "View my Visual Studio Marketplace profile 🎯"
 	}
 }
