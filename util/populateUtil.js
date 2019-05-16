@@ -7,19 +7,19 @@ const fs = require('fs');
 const parser = require('./parseUtils');
 
 function writeBadgesToFile(){
-	var markdownContent = getMarkdownContent();
+	var markdownContent = getMarkdownContent('./../snippets/markdown.json');
 	writeDataToFile("list-of-badges.md", markdownContent);
 }
 
-function getMarkdownContent(){
+function getMarkdownContent(markdownFile){
 	var data = "# List of badges\n\n";
 	data += "| Badge | Prefix |\n";
 	data += "|---|---|\n"; 
 
-	var languageJSON = parser.parseSnippetFile('./../snippets/markdown.json');
+	var languageJSON = parser.parseSnippetFile(markdownFile);
 	for (var ki = 0; ki < Object.keys(languageJSON).length; ki++) {
 		var key = Object.keys(languageJSON)[ki];   
-		data += "|" + languageJSON[key].body + "|" + languageJSON[key].prefix + "|\n";
+		data += "|" + cleanBuiltInVariables(languageJSON[key].body) + "|" + languageJSON[key].prefix + "|\n";
 	}
 	
 	data += "\n\n";
@@ -35,6 +35,15 @@ function writeDataToFile(file, data){
 		}
 		console.log("File is created successfully.");
 	});	
+}
+
+function cleanBuiltInVariables(body){
+	body = body.toString();
+	if(body.indexOf("$CURRENT_YEAR") > 0){
+		var dt = new Date(); 
+		body = body.replace("$CURRENT_YEAR", dt.getFullYear());
+	}
+	return body;
 }
 	
 // Starts here

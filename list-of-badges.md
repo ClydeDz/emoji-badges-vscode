@@ -8,6 +8,7 @@
 |[![Follow me on Facebook](https://img.shields.io/static/v1.svg?label=Follow%20me&message=👋&logo=facebook&style=social)](https://www.facebook.com/zuck) |facebook-follow|
 |[![Stackoverflow profile](https://img.shields.io/static/v1.svg?label=Stackoverflow%20profile&message=😎&color=d6d6d6&logo=stackoverflow&labelColor=3a3a3a)](https://stackoverflow.com/users/22656/jon-skeet) |stackoverflow-profile|
 |[![Reddit profile](https://img.shields.io/static/v1.svg?label=I%27m%20on%20reddit&message=📣&logo=reddit&labelColor=171717&color=171717&logoColor=white)](https://www.reddit.com/user/poem_for_your_sprog) |reddit-profile|
+|![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=2019%20Name&labelColor=informational&color=033450) |copyright|
 
 
 **Note:** `Prefix` defines how this snippet is selected from IntelliSense and tab completion.
