@@ -40,5 +40,12 @@
 			"[![Reddit profile](https://img.shields.io/static/v1.svg?label=I%27m%20on%20reddit&message=📣&logo=reddit&labelColor=171717&color=171717&logoColor=white)](https://www.reddit.com/user/poem_for_your_sprog) "
 		],
 		"description": "Reddit profile 📣"
+	},
+	"Copyright": {
+		"prefix": "copyright",
+		"body": [
+			"![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=$CURRENT_YEAR%20Name&labelColor=informational&color=033450) "
+		],
+		"description": "Copyright information ©️"
 	}
 }
