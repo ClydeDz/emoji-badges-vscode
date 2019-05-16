@@ -13,13 +13,15 @@ function writeBadgesToFile(){
 
 function getMarkdownContent(markdownFile){
 	var data = "# List of badges\n\n";
-	data += "| Badge | Prefix |\n";
-	data += "|---|---|\n"; 
-
 	var languageJSON = parser.parseSnippetFile(markdownFile);
+
+	data += "Here is the complete list of **" + Object.keys(languageJSON).length + "** emoji badges.\n\n";
+	data += "| Badge | Prefix |\n";
+	data += "|----|----|\n"; 
+
 	for (var ki = 0; ki < Object.keys(languageJSON).length; ki++) {
 		var key = Object.keys(languageJSON)[ki];   
-		data += "|" + cleanBuiltInVariables(languageJSON[key].body) + "|" + languageJSON[key].prefix + "|\n";
+		data += "|" + cleanBuiltInVariables(languageJSON[key].body) + "| `" + languageJSON[key].prefix + "` |\n";
 	}
 	
 	data += "\n\n";
