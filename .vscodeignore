@@ -1,8 +1,10 @@
 demos/**
 node_modules/**
 tests/**
+util/**
 images/**
 .vscode/**
+.github/**
 .gitignore
 .vsix 
 test-results.xml
