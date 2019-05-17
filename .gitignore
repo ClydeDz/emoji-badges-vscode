@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Local test result file
+test-results.xml
