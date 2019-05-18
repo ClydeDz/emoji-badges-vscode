@@ -19,8 +19,9 @@ function getMarkdownContent(markdownFile){
 	data += "| Badge | Prefix |\n";
 	data += "|----|----|\n"; 
 
-	for (var ki = 0; ki < Object.keys(languageJSON).length; ki++) {
-		var key = Object.keys(languageJSON)[ki];   
+	var sortedKeys =  Object.keys(languageJSON).sort();
+	for (var ki = 0; ki < sortedKeys.length; ki++) {
+		var key = sortedKeys[ki];
 		data += "|" + cleanBuiltInVariables(languageJSON[key].body) + "| `" + languageJSON[key].prefix + "` |\n";
 	}
 	
