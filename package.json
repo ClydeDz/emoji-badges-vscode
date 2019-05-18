@@ -35,6 +35,6 @@
 		"nyc": "^14.1.1"
 	},
 	"scripts": {
-		"test": "nyc mocha tests/test.js --reporter mocha-junit-reporter --timeout 10000 --exit"
+		"test": "nyc --reporter=cobertura mocha tests/test.js --reporter mocha-junit-reporter --timeout 10000 --exit"
 	}
 }
