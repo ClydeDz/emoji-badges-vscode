@@ -31,9 +31,10 @@
 	"devDependencies": {
 		"chai": "^4.2.0",
 		"mocha": "^6.1.4",
-		"mocha-junit-reporter": "^1.22.0"
+		"mocha-junit-reporter": "^1.22.0",
+		"nyc": "^14.1.1"
 	},
 	"scripts": {
-		"test": "mocha tests/test.js --reporter mocha-junit-reporter --timeout 10000 --exit"
+		"test": "nyc mocha tests/test.js --reporter mocha-junit-reporter --timeout 10000 --exit"
 	}
 }
