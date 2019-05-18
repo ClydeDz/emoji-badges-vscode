@@ -1,6 +1,6 @@
 # List of badges
 
-Here is the complete list of **13** emoji badges.
+Here is the complete list of **16** emoji badges.
 
 | Badge | Prefix |
 |----|----|
@@ -10,6 +10,9 @@ Here is the complete list of **13** emoji badges.
 |[![Follow me on Facebook](https://img.shields.io/static/v1.svg?label=Follow%20me&message=👋&logo=facebook&style=social)](https://www.facebook.com/zuck) | `facebook-follow` |
 |[![Read this Gist](https://img.shields.io/static/v1.svg?label=🦄%20read%20this%20&message=gist&labelColor=ff69b4&color=033450)](https://gist.github.com/mrbar42/ae111731906f958b396f30906004b3fa) | `gist-read` |
 |[![Fork this JSFiddle](https://img.shields.io/static/v1.svg?label=🍴%20fork%20this&message=JSFiddle&labelColor=informational&color=033450)](http://jsfiddle.net/v3ayrduk/) | `jsfiddle-fork` |
+|![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) | `license-apache-2-0` |
+|![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) | `license-gpl-3-0` |
+|![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) | `license-mit` |
 |[![Get in touch on Messenger](https://img.shields.io/static/v1.svg?label=Get%20in%20touch&message=🤙&logo=messenger&style=social)](https://m.me/clydedz) | `messenger-getintouch` |
 |[![NuGet profile](https://img.shields.io/static/v1.svg?label=nuget.org%20profile&message=🍬&color=004880&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/newtonsoft) | `nuget-profile` |
 |[![Follow me on Pluralsight](https://img.shields.io/static/v1.svg?label=Follow%20me%20on&labelColor=F15B2A&logo=pluralsight&logoColor=white&message=Pluralsight%20👍&color=2D2D2D)](https://www.pluralsight.com/authors/john-papa) | `pluralsight-follow` |
