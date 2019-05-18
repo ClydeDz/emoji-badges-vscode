@@ -3,8 +3,11 @@ node_modules/**
 tests/**
 util/**
 images/**
+coverage/**
+.nyc_output/**
 .vscode/**
 .github/**
 .gitignore
 .vsix 
 test-results.xml
+lgtm.yml
