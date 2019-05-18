@@ -110,5 +110,40 @@
 			"![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) "
 		],
 		"description": "GPLv3 License 📃"
+	},
+	"npm-install": {
+		"prefix": "npm-install",
+		"body": [
+			"[![npm install](https://img.shields.io/static/v1.svg?label=Install%20chalk&message=🎁&logo=npm&style=social)](https://www.npmjs.com/package/chalk) "
+		],
+		"description": "npm install 🎁"
+	},
+	"chrome-add": {
+		"prefix": "chrome-add",
+		"body": [
+			"[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) "
+		],
+		"description": "Add to Chrome 🧘"
+	},
+	"firefox-add": {
+		"prefix": "firefox-add",
+		"body": [
+			"[![Add to Firefox](https://img.shields.io/static/v1.svg?label=Add%20to&message=Firefox%20🦊&color=431a7f&labelColor=ff3129)](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/) "
+		],
+		"description": "Add to Firefox 🦊"
+	},
+	"donate-pink-ribbon": {
+		"prefix": "donate-pink-ribbon",
+		"body": [
+			"[![Donate Pink Ribbon](https://img.shields.io/static/v1.svg?label=Donate&message=🎗️&labelColor=e85494)](https://www.breastcancerfoundation.org.nz/) "
+		],
+		"description": "Donate Pink Ribbon 🎗️"
+	},
+	"podcast-listen": {
+		"prefix": "podcast-listen",
+		"body": [
+			"[![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) "
+		],
+		"description": "Listen to the podcast 🎧"
 	}
 }
