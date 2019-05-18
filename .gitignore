@@ -62,3 +62,6 @@ typings/
 
 # Local test result file
 test-results.xml
+
+# Local VSIX files
+*.vsix
