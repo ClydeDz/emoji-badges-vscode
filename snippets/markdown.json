@@ -89,5 +89,26 @@
 			"[![View my Visual Studio Marketplace profile](https://img.shields.io/static/v1.svg?label=View%20my%20VS%20Marketplace%20profile&labelColor=success&message=🎯&color=2D2D2D)](https://marketplace.visualstudio.com/publishers/clydedsouza) "
 		],
 		"description": "View my Visual Studio Marketplace profile 🎯"
+	},
+	"license-mit": {
+		"prefix": "license-mit",
+		"body": [
+			"![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) "
+		],
+		"description": "MIT License 📜"
+	},
+	"license-apache-2-0": {
+		"prefix": "license-apache-2-0",
+		"body": [
+			"![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) "
+		],
+		"description": "Apache 2.0 License 📃"
+	},
+	"license-gpl-3-0": {
+		"prefix": "license-gpl-3-0",
+		"body": [
+			"![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) "
+		],
+		"description": "GPLv3 License 📃"
 	}
 }
