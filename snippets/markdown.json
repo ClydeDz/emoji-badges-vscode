@@ -1,89 +1,89 @@
 {
-	"Follow author profile on Amazon": {
+	"amazon-follow": {
 		"prefix": "amazon-follow",
 		"body": [
 			"[![Follow author profile on Amazon](https://img.shields.io/static/v1.svg?label=Follow%20me%20on%20Amazon&message=📖&color=FF9900&logo=amazon&logoColor=white)](https://www.amazon.com/Michelle-Obama/e/B07B436TLF) "
 		],
 		"description": "Follow author profile on Amazon 📖"
 	},
-	"NuGet profile": {
+	"nuget-profile": {
 		"prefix": "nuget-profile",
 		"body": [
 			"[![NuGet profile](https://img.shields.io/static/v1.svg?label=nuget.org%20profile&message=🍬&color=004880&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/newtonsoft) "
 		],
 		"description": "NuGet profile 🍬"
 	},
-	"Follow me on Twitter": {
+	"twitter-follow": {
 		"prefix": "twitter-follow",
 		"body": [
 			"[![Follow me on Twitter](https://img.shields.io/static/v1.svg?label=Follow%20%40ProductHunt&message=🤙&color=red&logo=twitter&style=social)](https://twitter.com/ProductHunt) "
 		],
 		"description": "Follow me on Twitter 🤙"
 	},
-	"Follow me on Facebook": {
+	"facebook-follow": {
 		"prefix": "facebook-follow",
 		"body": [
 			"[![Follow me on Facebook](https://img.shields.io/static/v1.svg?label=Follow%20me&message=👋&logo=facebook&style=social)](https://www.facebook.com/zuck) "
 		],
 		"description": "Follow me on Facebook 👋"
 	},
-	"Stackoverflow profile": {
+	"stackoverflow-profile": {
 		"prefix": "stackoverflow-profile",
 		"body": [
 			"[![Stackoverflow profile](https://img.shields.io/static/v1.svg?label=Stackoverflow%20profile&message=😎&color=d6d6d6&logo=stackoverflow&labelColor=3a3a3a)](https://stackoverflow.com/users/22656/jon-skeet) "
 		],
 		"description": "Stackoverflow profile 😎"
 	},
-	"Reddit profile": {
+	"reddit-profile": {
 		"prefix": "reddit-profile",
 		"body": [
 			"[![Reddit profile](https://img.shields.io/static/v1.svg?label=I%27m%20on%20reddit&message=📣&logo=reddit&labelColor=171717&color=171717&logoColor=white)](https://www.reddit.com/user/poem_for_your_sprog) "
 		],
 		"description": "Reddit profile 📣"
 	},
-	"Copyright": {
+	"copyright": {
 		"prefix": "copyright",
 		"body": [
 			"![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%20$CURRENT_YEAR%20Name&labelColor=informational&color=033450) "
 		],
 		"description": "Copyright information ©️"
 	},
-	"Fork this fiddle": {
+	"jsfiddle-fork": {
 		"prefix": "jsfiddle-fork",
 		"body": [
 			"[![Fork this JSFiddle](https://img.shields.io/static/v1.svg?label=🍴%20fork%20this&message=JSFiddle&labelColor=informational&color=033450)](http://jsfiddle.net/v3ayrduk/) "
 		],
 		"description": "Fork this fiddle 🍴"
 	},
-	"Read this Gist": {
+	"gist-read": {
 		"prefix": "gist-read",
 		"body": [
 			"[![Read this Gist](https://img.shields.io/static/v1.svg?label=🦄%20read%20this%20&message=gist&labelColor=ff69b4&color=033450)](https://gist.github.com/mrbar42/ae111731906f958b396f30906004b3fa) "
 		],
 		"description": "https://m.me/clydedzRead this Gist 🦄"
 	},
-	"Get in touch on Messenger": {
+	"messenger-getintouch": {
 		"prefix": "messenger-getintouch",
 		"body": [
 			"[![Get in touch on Messenger](https://img.shields.io/static/v1.svg?label=Get%20in%20touch&message=🤙&logo=messenger&style=social)](https://m.me/clydedz) "
 		],
 		"description": "Get in touch on Messenger 🤙"
 	},
-	"Email me": {
+	"email-me": {
 		"prefix": "email-me",
 		"body": [
 			"[![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:name@domain.com) "
 		],
 		"description": "Email me 📧"
 	},
-	"Follow me on Pluralsight": {
+	"pluralsight-follow": {
 		"prefix": "pluralsight-follow",
 		"body": [
 			"[![Follow me on Pluralsight](https://img.shields.io/static/v1.svg?label=Follow%20me%20on&labelColor=F15B2A&logo=pluralsight&logoColor=white&message=Pluralsight%20👍&color=2D2D2D)](https://www.pluralsight.com/authors/john-papa) "
 		],
 		"description": "Follow me on Pluralsight 👍"
 	},
-	"View my VS Marketplace profile": {
+	"vsmarketplace-profile": {
 		"prefix": "vsmarketplace-profile",
 		"body": [
 			"[![View my Visual Studio Marketplace profile](https://img.shields.io/static/v1.svg?label=View%20my%20VS%20Marketplace%20profile&labelColor=success&message=🎯&color=2D2D2D)](https://marketplace.visualstudio.com/publishers/clydedsouza) "
