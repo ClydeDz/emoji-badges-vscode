@@ -20,5 +20,5 @@ Here are some examples of emoji badges. You can find the complete list of badges
 
 ## Credits
 Emoji Badges for VS Code (c) 2019 [Clyde D'Souza](https://clydedsouza.net)   
-Badge service by [Shields.io](shields.io/)   
+Badge service by [Shields.io](https://shields.io/)   
 Emoji's by [Emojipedia.org](https://emojipedia.org/)
