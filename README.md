@@ -16,6 +16,8 @@ Here are some examples of emoji badges. You can find the complete list of badges
 [![Add to Firefox](https://img.shields.io/static/v1.svg?label=Add%20to&message=Firefox%20🦊&color=431a7f&labelColor=ff3129)](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/) 
 [![npm install](https://img.shields.io/static/v1.svg?label=Install%20chalk&message=🎁&logo=npm&style=social)](https://www.npmjs.com/package/chalk)  
 
+![Demo GIF](https://raw.githubusercontent.com/ClydeDz/emoji-badges-vscode/master/images/demo-gif.gif)      
+
 ## Credits
 Emoji Badges for VS Code (c) 2019 [Clyde D'Souza](https://clydedsouza.net)   
 Badge service by [Shields.io](shields.io/)   
