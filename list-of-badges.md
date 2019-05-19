@@ -1,10 +1,11 @@
 # List of badges
 
-Here is the complete list of **23** emoji badges.
+Here is the complete list of **24** emoji badges.
 
 | Badge | Prefix |
 |----|----|
 |[![Follow author profile on Amazon](https://img.shields.io/static/v1.svg?label=Follow%20me%20on%20Amazon&message=📖&color=FF9900&logo=amazon&logoColor=white)](https://www.amazon.com/Michelle-Obama/e/B07B436TLF) | `amazon-follow` |
+|[![Follow us on AngelList](https://img.shields.io/static/v1.svg?label=Follow%20us&message=😇&color=black&logo=angellist&logoColor=white&labelColor=black)](https://angel.co/company/thumbtack) | `angellist-follow` |
 |[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) | `chrome-add` |
 |![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450) | `copyright` |
 |[![Donate Pink Ribbon](https://img.shields.io/static/v1.svg?label=Donate&message=🎗️&labelColor=e85494)](https://www.breastcancerfoundation.org.nz/) | `donate-pink-ribbon` |

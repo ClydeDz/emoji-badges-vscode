@@ -159,5 +159,12 @@
 			"[![Become a patron](https://img.shields.io/static/v1.svg?label=Become%20a%20patron&message=🙏&color=e85b46&logo=patreon&logoColor=white&labelColor=e85b46)](https://www.patreon.com/DeFranco) "
 		],
 		"description": "Become a patron 🙏"
+	},
+	"angellist-follow": {
+		"prefix": "angellist-follow",
+		"body": [
+			"[![Follow us on AngelList](https://img.shields.io/static/v1.svg?label=Follow%20us&message=😇&color=black&logo=angellist&logoColor=white&labelColor=black)](https://angel.co/company/thumbtack) "
+		],
+		"description": "Follow us on AngelList 😇"
 	}
 }
