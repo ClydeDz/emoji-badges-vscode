@@ -1,8 +1,8 @@
 {
 	"name": "emoji-badges-vscode",
 	"displayName": "Emoji Badges",
-	"description": "Placeholder",
-	"version": "0.1.0",
+	"description": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis 😎",
+	"version": "0.2.0",
 	"publisher": "clydedsouza",
 	"engines": {
 		"vscode": "^1.28.0"
@@ -15,7 +15,22 @@
 	},
 	"icon": "icon.png",
 	"keywords": [
-		"Snippets"
+		"Snippets",
+		"Badges",
+		"Emoji",
+		"Emoji Badges",
+		"Shields",
+		"shields.io",
+		"shieldsio",
+		"Markdown",
+		"md",
+		"emojipedia.org",
+		"emojipedia",
+		"Emoji on badges",
+		"Badges for VS Code",
+		"VS Code",
+		"VSCode",
+		"Labels"
 	],
 	"categories": [
 		"Snippets"
