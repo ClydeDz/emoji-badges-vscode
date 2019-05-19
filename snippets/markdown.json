@@ -145,5 +145,12 @@
 			"[![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) "
 		],
 		"description": "Listen to the podcast 🎧"
+	},
+	"tweet-this": {
+		"prefix": "tweet-this",
+		"body": [
+			"[![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U) "
+		],
+		"description": "Tweet about this 🎵"
 	}
 }

@@ -1,6 +1,6 @@
 # List of badges
 
-Here is the complete list of **21** emoji badges.
+Here is the complete list of **22** emoji badges.
 
 | Badge | Prefix |
 |----|----|
@@ -23,6 +23,7 @@ Here is the complete list of **21** emoji badges.
 |[![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) | `podcast-listen` |
 |[![Reddit profile](https://img.shields.io/static/v1.svg?label=I%27m%20on%20reddit&message=📣&logo=reddit&labelColor=171717&color=171717&logoColor=white)](https://www.reddit.com/user/poem_for_your_sprog) | `reddit-profile` |
 |[![Stackoverflow profile](https://img.shields.io/static/v1.svg?label=Stackoverflow%20profile&message=😎&color=d6d6d6&logo=stackoverflow&labelColor=3a3a3a)](https://stackoverflow.com/users/22656/jon-skeet) | `stackoverflow-profile` |
+|[![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U) | `tweet-this` |
 |[![Follow me on Twitter](https://img.shields.io/static/v1.svg?label=Follow%20%40ProductHunt&message=🤙&color=red&logo=twitter&style=social)](https://twitter.com/ProductHunt) | `twitter-follow` |
 |[![View my Visual Studio Marketplace profile](https://img.shields.io/static/v1.svg?label=View%20my%20VS%20Marketplace%20profile&labelColor=success&message=🎯&color=2D2D2D)](https://marketplace.visualstudio.com/publishers/clydedsouza) | `vsmarketplace-profile` |
 
