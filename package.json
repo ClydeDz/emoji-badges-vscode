@@ -2,7 +2,7 @@
 	"name": "emoji-badges-vscode",
 	"displayName": "Emoji Badges",
 	"description": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis 😎",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"publisher": "clydedsouza",
 	"engines": {
 		"vscode": "^1.28.0"
