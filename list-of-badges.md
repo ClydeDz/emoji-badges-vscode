@@ -1,6 +1,6 @@
 # List of badges
 
-Here is the complete list of **22** emoji badges.
+Here is the complete list of **23** emoji badges.
 
 | Badge | Prefix |
 |----|----|
@@ -19,6 +19,7 @@ Here is the complete list of **22** emoji badges.
 |[![Get in touch on Messenger](https://img.shields.io/static/v1.svg?label=Get%20in%20touch&message=🤙&logo=messenger&style=social)](https://m.me/clydedz) | `messenger-getintouch` |
 |[![npm install](https://img.shields.io/static/v1.svg?label=Install%20chalk&message=🎁&logo=npm&style=social)](https://www.npmjs.com/package/chalk) | `npm-install` |
 |[![NuGet profile](https://img.shields.io/static/v1.svg?label=nuget.org%20profile&message=🍬&color=004880&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/newtonsoft) | `nuget-profile` |
+|[![Become a patron](https://img.shields.io/static/v1.svg?label=Become%20a%20patron&message=🙏&color=e85b46&logo=patreon&logoColor=white&labelColor=e85b46)](https://www.patreon.com/DeFranco) | `patreon-join` |
 |[![Follow me on Pluralsight](https://img.shields.io/static/v1.svg?label=Follow%20me%20on&labelColor=F15B2A&logo=pluralsight&logoColor=white&message=Pluralsight%20👍&color=2D2D2D)](https://www.pluralsight.com/authors/john-papa) | `pluralsight-follow` |
 |[![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) | `podcast-listen` |
 |[![Reddit profile](https://img.shields.io/static/v1.svg?label=I%27m%20on%20reddit&message=📣&logo=reddit&labelColor=171717&color=171717&logoColor=white)](https://www.reddit.com/user/poem_for_your_sprog) | `reddit-profile` |

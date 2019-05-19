@@ -152,5 +152,12 @@
 			"[![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U) "
 		],
 		"description": "Tweet about this 🎵"
+	},
+	"patreon-join": {
+		"prefix": "patreon-join",
+		"body": [
+			"[![Become a patron](https://img.shields.io/static/v1.svg?label=Become%20a%20patron&message=🙏&color=e85b46&logo=patreon&logoColor=white&labelColor=e85b46)](https://www.patreon.com/DeFranco) "
+		],
+		"description": "Become a patron 🙏"
 	}
 }
