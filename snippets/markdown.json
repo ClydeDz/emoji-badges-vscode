@@ -243,5 +243,26 @@
 			"[![Download this app from the App Store](https://img.shields.io/static/v1.svg?label=Download%20now&message=🎲&color=black&logo=Apple&logoColor=white&labelColor=black)](https://itunes.apple.com/nz/app/candy-crush-saga/id553834731?mt=8) "
 		],
 		"description": "Download this app from iTunes / App Store 🎲"
+	},
+	"paypal-donate": {
+		"prefix": "paypal-donate",
+		"body": [
+			"[![Donate via PayPal](https://img.shields.io/static/v1.svg?label=Donate&message=💰&color=black&logo=paypal&logoColor=white&labelColor=FFA500)](https://your-paypal-link) "
+		],
+		"description": "Donate via PayPal 💰"
+	},
+	"buy-me-a-coffee": {
+		"prefix": "buy-me-a-coffee",
+		"body": [
+			"[![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link) "
+		],
+		"description": "Buy me a coffee 🥨"
+	},
+	"twitch-watch": {
+		"prefix": "twitch-watch",
+		"body": [
+			"[![Watch this Twitch stream](https://img.shields.io/static/v1.svg?label=Watch%20this%20stream&message=👾&color=EEEEEE&logo=twitch&logoColor=white&labelColor=6441A4)](https://www.twitch.tv/sodapoppin) "
+		],
+		"description": "Watch this Twitch stream 👾"
 	}
 }
