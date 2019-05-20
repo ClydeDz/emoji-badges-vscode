@@ -7,7 +7,8 @@ Snippets to insert emoji badges to your markdown file. These are shields.io badg
 ![Azure DevOps tests](https://img.shields.io/azure-devops/tests/clydedsouza/Emoji%20Badges%20VS%20Code/25.svg) 
 ![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/ClydeDz/emoji-badges-vscode.svg?logo=lgtm) 
 [![Maintainability](https://api.codeclimate.com/v1/badges/25cc71185468b2209a85/maintainability)](https://codeclimate.com/github/ClydeDz/emoji-badges-vscode/maintainability) 
-![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational)  
+![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) 
+[![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U)   
 
 ## Examples
 Here are some examples of emoji badges. You can find the complete list of badges [here](https://github.com/ClydeDz/emoji-badges-vscode/blob/master/list-of-badges.md).  
