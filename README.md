@@ -19,6 +19,9 @@ Here are some examples of emoji badges. You can find the complete list of badges
 
 ![Demo GIF](https://raw.githubusercontent.com/ClydeDz/emoji-badges-vscode/master/images/demo-gif.gif)      
 
+## Release notes  
+For detailed release notes, please refer to [this page](https://github.com/ClydeDz/emoji-badges-vscode/releases).  
+
 ## Credits
 Emoji Badges for VS Code (c) 2019 [Clyde D'Souza](https://clydedsouza.net)   
 Badge service by [Shields.io](https://shields.io/)   
